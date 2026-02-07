@@ -1,5 +1,5 @@
 
-## Hi I'm Ginson <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Sup">
+## Hi I'm Gin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Sup">
 ![Profile views](https://komarev.com/ghpvc/?username=HeLLxGodLike&color=blue&style=flat-square&label=Profile+Views)
 #### You can find me at
 [![telegram badge](https://img.shields.io/badge/@georgopol-30302f?style=for-the-badge&logo=telegram)](https://t.me/georgopol)
@@ -15,8 +15,8 @@
 - _Probably wasting time_
 - _Contact me on TG if uve got good ideas_
 
-- [x] ⛔Horny? Yes
-- [x] ⛔Stu-dying 
+- [x] ⛔ Weird? Yes
+- [x] ⛔dying 
 - [x] 🚫Know coding.
 
 #### Github Stats
