@@ -31,7 +31,7 @@
 - [x] 🚫Know coding
 - [ ] ✅Boring asf
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FIameAlchemist&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FlameAllchemist&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/>
 
 
  🔗 CONTACT
