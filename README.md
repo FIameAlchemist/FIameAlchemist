@@ -17,26 +17,24 @@
 #### You can find me at
 [![discord badge](https://img.shields.io/badge/@flameallchemist-30302f?style=for-the-badge&logo=discord)](https://discord.gg/zPgzVv59)
 
-## 🖥 LIVE TERMINAL
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;Gin;%24+cat+skills.txt;JavaScript+Python+Linux+React;%24+git+commit+-m+%22fix+life+bugs%22;mental+health+not+found;%24+sudo+sleep;permission+denied;%24+hack+the+planet;access+granted+%F0%9F%90%8D" />
-</p>
-
-
-
+<img src="https://img.shields.io/badge/status-debugging_life-00ff41?style=for-the-badge"/>
 
 
 
 - **Currently Pretty Dead**
 - _Probably wasting time_
-- _Contact me on TG if uve got good ideas_
+- _I'm probably the most boring person you'll ever meet lol_
 
 - [x] ⛔ Weird? Yes
 - [x] ⛔dying 
-- [x] 🚫Know coding.
+- [x] 🚫Know coding
+- [ ] ✅Boring asf
 
-🔗 CONTACT
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FIameAlchemist&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/>
+
+
+ 🔗 CONTACT
 <p align="center"> <a href="https://discord.gg/zPgzVv59"> <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=00ff41"/> </a> <a href="https://github.com/FIameAlchemist"> <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=00ff41"/> </a> </p>
 
 ⚙️ TECH STACK
@@ -44,5 +42,15 @@
 📊 TERMINAL STATS
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HeLLxGodLike&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/> <img src="https://streak-stats.demolab.com?user=HeLLxGodLike&theme=chartreuse-dark&hide_border=true&background=000000"/> </p>
 
+<details>
+<summary>🕳 click if curious</summary>
+</p>
+  
 🎬 TERMINAL FEED
 <p align="center"> <img src="https://user-images.githubusercontent.com/73432258/232302778-3cfad6ae-837e-4749-972e-694a5af29d1e.gif" width="500"/> </p>
+
+## 🖥 LIVE TERMINAL
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;Gin;%24+cat+skills.txt;JavaScript+Python+Linux+React;%24+git+commit+-m+%22fix+life+bugs%22;mental+health+not+found;%24+sudo+sleep;permission+denied;%24+hate+my+life;access+granted+%F0%9F%90%8D" />
+</p>
