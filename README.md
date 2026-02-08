@@ -43,14 +43,15 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HeLLxGodLike&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/> <img src="https://streak-stats.demolab.com?user=HeLLxGodLike&theme=chartreuse-dark&hide_border=true&background=000000"/> </p>
 
 <details>
-<summary>🕳 click if curious</summary>
+<summary>🕳️ CLICK HERE FOR A COOKIE 🍪!</summary>
 </p>
   
-🎬 TERMINAL FEED
-<p align="center"> <img src="https://user-images.githubusercontent.com/73432258/232302778-3cfad6ae-837e-4749-972e-694a5af29d1e.gif" width="500"/> </p>
+🎬 GET RICKROLLED🗣️
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTg2ZjAxczNvaWRienZtN3FnZWM1cXZzd2tpZXZwMTRpNXZxd2g5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif" width="500"/> </p>
 
 ## 🖥 LIVE TERMINAL
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;Gin;%24+cat+skills.txt;JavaScript+Python+Linux+React;%24+git+commit+-m+%22fix+life+bugs%22;mental+health+not+found;%24+sudo+sleep;permission+denied;%24+hate+my+life;access+granted+%F0%9F%90%8D" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Thank+You;For+checking+out+my+profile😄;Hope+You;Have+a+Fantastic...;Day+my+beloved+Friend🫂..!" />
 </p>
