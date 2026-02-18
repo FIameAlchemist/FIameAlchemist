@@ -15,7 +15,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=HeLLxGodLike&color=blue&style=flat-square&label=Profile+Views)
 #### You can find me at
-[![discord badge](https://img.shields.io/badge/@flameallchemist-30302f?style=for-the-badge&logo=discord)](https://discord.gg/zPgzVv59)
+[![discord badge](https://img.shields.io/badge/@0jns-30302f?style=for-the-badge&logo=discord)](https://discord.gg/6UUhzazu)
 
 
 <img src="https://img.shields.io/badge/status-debugging_life-00ff41?style=for-the-badge"/>
@@ -31,11 +31,11 @@
 - [x] 🚫Know coding
 - [ ] ✅Boring asf
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FlameAllchemist&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0jns&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/>
 
 
  🔗 CONTACT
-<p align="center"> <a href="https://discord.gg/zPgzVv59"> <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=00ff41"/> </a> <a href="https://github.com/FIameAlchemist"> <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=00ff41"/> </a> </p>
+<p align="center"> <a href="https://discord.gg/6UUhzazu"> <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=00ff41"/> </a> <a href="https://github.com/FIameAlchemist"> <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=00ff41"/> </a> </p>
 
 ⚙️ TECH STACK
 <p align="center"> <img src="https://skillicons.dev/icons?i=linux,js,ts,python,cpp,nodejs,react,git,vscode,html,css&theme=dark"/> </p>
